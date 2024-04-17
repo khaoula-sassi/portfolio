@@ -86,7 +86,7 @@ header .navbar-brand b,
 .testimonial .testimonial-item::before {
   color: #1ab394;
 }
-.flat-demo .button-border, .arshia-dark.flat-demo .button-border {
+.flat-demo .button-border, .khaoula-dark.flat-demo .button-border {
   background-color: #1ab394;
 }
 
@@ -94,10 +94,10 @@ header .navbar-brand b,
   background-color: #0c9b7e;
 }
 
-.arshia-dark .hero-social li a:hover {
+.khaoula-dark .hero-social li a:hover {
   color: #0c9b7e !important;
 }
 
-.arshia-dark .header nav a:hover {
+.khaoula-dark .header nav a:hover {
   color: #0c9b7e !important;
 }

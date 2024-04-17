@@ -50,13 +50,13 @@ function themeOption(){
     "use strict";
 
     $('.color-scheme li .dark-scheme').click(function() {
-        $("body").addClass('arshia-dark');
+        $("body").addClass('khaoula-dark');
         $('.color-scheme li a').removeClass('active');
         $(this).addClass('active');
     });
 
     $('.color-scheme li .light-scheme').click(function() {
-        $("body").removeClass('arshia-dark');
+        $("body").removeClass('khaoula-dark');
         $('.color-scheme li a').removeClass('active');
         $(this).addClass('active');
     });
